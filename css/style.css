@@ -1,0 +1,15 @@
+.header{
+    height: 10vh;
+    width: 100vw;
+    box-shadow: inset 2vh 0vh 15vh blue;
+    display: flex;
+    position:absolute;
+    top: 0vh;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.bar,.login{
+    font-size: 30px;
+    margin: 2vw;
+}
